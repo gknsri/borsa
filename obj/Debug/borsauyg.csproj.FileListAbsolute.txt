@@ -1,0 +1,13 @@
+C:\Users\Excalibur\Desktop\borsauyg\bin\Debug\borsauyg.exe.config
+C:\Users\Excalibur\Desktop\borsauyg\bin\Debug\borsauyg.exe
+C:\Users\Excalibur\Desktop\borsauyg\bin\Debug\borsauyg.pdb
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.csprojAssemblyReference.cache
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.Form1.resources
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.exe
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.pdb
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.Form2.resources
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.Form3.resources
+C:\Users\Excalibur\Desktop\borsauyg\obj\Debug\borsauyg.Form4.resources
